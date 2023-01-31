@@ -3,4 +3,4 @@
 # this is assignment no 2
  
 i am currently new in GitHub
-https://miro.medium.com/max/719/0*LqBi2dONH28oTKVX.png
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqok_t04CdTulsFYgTjYph1fWVJ3rY_kPvw&usqp=CAU">
