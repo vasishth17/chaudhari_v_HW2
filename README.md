@@ -2,4 +2,4 @@
 
 # this is assignment no 2
  
-i am currently new in github
+i am currently new in GitHub
