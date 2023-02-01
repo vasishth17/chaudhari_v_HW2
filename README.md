@@ -2,6 +2,10 @@
 
 # this is assignment no 2
  
-i am currently new on GitHub<br><br>
+## Commands
+To change branch without commiti: git stash
+To delete tracked changes:  git reset —hard
+HEAD^ 
+<br><br>
 
 <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqok_t04CdTulsFYgTjYph1fWVJ3rY_kPvw&usqp=CAU">
