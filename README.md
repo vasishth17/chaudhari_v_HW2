@@ -3,7 +3,7 @@
 # this is assignment no 2
  
 ## Commands
-To change branch without commiti: git stash
+To change branch without commiti: git stash <br>
 To delete tracked changes:  git reset —hard
 HEAD^ 
 <br><br>
